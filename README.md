@@ -62,12 +62,3 @@ and performance on Hyperliquid, and derive actionable trading strategy insights.
    amplifies their alpha.
 
 ---
-
-## Repository Structure
-```
-├── analysis.ipynb       # Main analysis notebook
-├── fear_greed_index.csv
-├── historical_data.csv
-├── README.md
-└── charts/              # Exported chart PNGs
-```
